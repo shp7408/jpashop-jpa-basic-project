@@ -13,7 +13,7 @@ public class JpashopApplication {
 		String data = hello.getData();
 
 		/*
-		* hellp.getD.. 치고난 후, control + option + v 단축키 누르면,
+		* hello.getD.. 치고난 후, control + option + v 단축키 누르면,
 		* String data = 부분을 자동완성 해준다. extract variable 기능
 		 * */
 		System.out.println("data = " + data );
